@@ -2,6 +2,7 @@
   "name": "website-led-tv-repair",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://vijayelectronic.github.io/Best-LED-TV-repair-service-Unnao/",
   "type": "module",
   "scripts": {
     "dev": "vite",
